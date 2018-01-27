@@ -1,0 +1,167 @@
+----@SOUP (Starvolt's Other Uniforms Pack)- Changelog----
+
+----V 0.1 (Pea)------------------------------------------
+
+- Added CADPAT Uniforms & Equipment
+ - CADPAT Fatigues
+ - CADPAT Fatigues (Rolled)
+ - Plate Carrier (CADPAT)
+ - Tac Vest (CADPAT)
+ - MICH (CADPAT)
+ - Boonie Hat (CADPAT)
+ - Assault Pack (CADPAT)
+ - Carryall (CADPAT)
+ - Kitbag (CADPAT)
+
+- Added "Canadian Soldier" entities under NATO>Men
+---------------------------------------------------------
+
+----V 0.2 (Leek)-----------------------------------------
+
+- Added CADPAT ARID Uniforms & Equipment
+ - CADPAT Fatigues (ARID)
+ - CADPAT Fatigues (ARID, Rolled)
+ - Plate Carrier (CADPAT ARID)
+ - Tac Vest (CADPAT ARID)
+ - MICH (CADPAT ARID)
+ - Boonie Hat (CADPAT ARID)
+ - Assault Pack (CADPAT ARID)
+ - Carryall (CADPAT ARID)
+ - Kitbag (CADPAT ARID)
+
+- Added "Canadian Soldier (ARID)" entities under NATO>Men
+---------------------------------------------------------
+
+----V 0.3 (Pea and Ham)----------------------------------
+
+- Recoloured CADPAT (ARID) to be more accurate.
+---------------------------------------------------------
+
+----V 0.5 (Gumbo)----------------------------------------
+
+
+- Added M81 Uniforms & Equipment
+ - M81 BDU
+ - M81 Fatigues 
+ - M81 Fatigues (Rolled)
+ - Flak Vest (M81)
+ - Plate Carrier (M81)
+ - Tac Vest (M81)
+ - MICH (M81)
+ - Boonie Hat (M81)
+ - Patrol Cap (M81)
+ - Assault Pack (M81)
+ - Carryall (M81)
+ - Kitbag (M81)
+
+- Added "US Woodland Solider" entities under NATO>Men
+---------------------------------------------------------
+
+----V 0.6 (Chowder)--------------------------------------
+
+
+- Removed M81 Content
+
+- Added PMC Uniforms & Plate Carriers
+ - PMC Fatigues (Multiple Colours)
+ - PMC Combat Uniforms (Multiple Colours)
+ - Plate Carriers w/ no Flag (Black, OD, Sand)
+
+---------------------------------------------------------
+
+----V 0.7 (Minestrone)-----------------------------------
+
+
+- Retextured CADPAT
+
+---------------------------------------------------------
+
+----V 0.8 (Kartoffelsuppe)-------------------------------
+
+- Added German Flecktarn Uniforms & Equipment
+ - Flecktarn Fatigues
+ - Flecktarn Fatigues (Rolled)
+ - Plate Carrier (Flecktarn)
+ - Tac Vest (Flecktarn)
+ - MICH (Flecktarn)
+ - Patrol Cap (Flecktarn)
+ - Boonie Hat (Flecktarn)
+ - Assault Pack (Flecktarn)
+ - Carryall (Flecktarn)
+ - Kitbag (Flecktarn)
+
+- Added "German Soldier" entities under NATO>Men
+
+---------------------------------------------------------
+
+----V 0.9 (Artsoppa)-------------------------------
+
+- Added Swedish M90F/Woodland Uniforms & Equipment
+ - M90F Fatigues
+ - M90F Fatigues (Rolled)
+ - Plate Carrier (Swedish Green)
+ - Tac Vest (Swedish Green)
+ - MICH (M90F)
+ - Boonie Hat (M90F)
+ - Assault Pack (Swedish Green)
+ - Carryall (Swedish Green)
+ - Kitbag (Swedish Green)
+
+- Added "Swedish Soldier" entities under NATO>Men
+
+- Added Swedish M90K/Desert Uniforms & Equipment
+ - M90K Fatigues
+ - M90K Fatigues (Rolled)
+ - Plate Carrier (Swedish Sand)
+ - Tac Vest (Swedish Sand)
+ - MICH (M90K)
+ - Boonie Hat (M90K)
+ - Assault Pack (Swedish Sand)
+ - Carryall (Swedish Sand)
+ - Kitbag (Swedish Sand)
+
+- Added "Swedish Soldier (Desert)" entities under NATO>Men
+
+---------------------------------------------------------
+
+
+----V 0.9.1 (More Artsoppa)------------------------------
+
+- Recoloured CADPAT (desaturated)
+
+- Removed Flecktarn
+
+---------------------------------------------------------
+
+----V 1.0 (Steak and Chips)------------------------------
+
+- Added M81 Equipment
+ - M81 Fatigues
+ - M81 Fatigues (Rolled)
+ - M81 G3 Uniform
+ - M81 G3 Uniform (Rolled)
+ - M81 BDU
+ - Plate Carriers (M81)
+ - Flak Jackets (M81)
+ - MICH (M81)
+ - Boonie Hat (M81)
+ - Assault Pack (M81)
+ - Carryall (M81)
+ - Kitbag (M81)
+
+
+- Removed Tac Vests from all patterns
+
+
+---------------------------------------------------------
+
+----V 1.1 (Pie and Mash)------------------------------
+
+- Added a whole bunch of assorted PACT uniforms
+ - EMR/Winter EMR (Various patterns)
+ - KLMK (Various patterns)
+ - Partizan/Partizan Autumn
+ - Shadow/Tigr
+ - SURPAT
+ - VSR
+ - Mixed camo uniforms
